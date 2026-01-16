@@ -11,10 +11,10 @@ The dashboard is designed for **management and business stakeholders** to quickl
 ## 📥 Dataset Used
 
 **Global Electronics Retailer**  
-This dataset contains transactional and dimensional tables for a fictional global electronics retailer, including details on transactions, products, customers, store locations, and currency exchange rates. :contentReference[oaicite:1]{index=1}
+This dataset contains transactional and dimensional tables for a fictional global electronics retailer, including details on transactions, products, customers, store locations, and currency exchange rates.
 
 Data source:  
-🔗 https://mavenanalytics.io/data-playground/global-electronics-retailer :contentReference[oaicite:2]{index=2}
+🔗 https://mavenanalytics.io/data-playground/global-electronics-retailer
 
 ---
 
